@@ -1,0 +1,21 @@
+h1{
+    font-weight: 6=300;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+body{
+    color: rgb(50, 121, 77);
+    background-color: rgb(192, 218, 191);
+}
+.lateral{
+    display: flex;
+    justify-content: center;
+}
+
+menu{
+background-color: rgb(226, 214, 214);
+height: 400px;
+
+}
